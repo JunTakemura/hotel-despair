@@ -1,0 +1,16 @@
+# docker related files
+docker-compose.yml
+.docker
+
+# sensitive files
+.env
+*.log
+
+# vendor directories
+vendor/
+node_modles/
+
+# tmp files
+*.tmp
+*.bak
+*.swp
